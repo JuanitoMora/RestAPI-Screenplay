@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Automatizacion de Api Rest","Eliminar usuario con metodo delete","SUCCESS","2023-06-21T16:45:56.804-05:00[America/Bogota]","0.0","8.4"
+"Automatizacion de Api Rest","Consultar informacion de usuario","SUCCESS","2023-06-21T16:35:41.982-05:00[America/Bogota]","0.0","8.83"
+"Automatizacion de Api Rest","Modificar usuario con metodo patch","SUCCESS","2023-06-21T16:42:04.036-05:00[America/Bogota]","0.0","10.24"
+"Automatizacion de Api Rest","Crear un usuario con metodo Post","SUCCESS","2023-06-21T16:27:14.679-05:00[America/Bogota]","0.0","9.53"
